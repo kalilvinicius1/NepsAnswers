@@ -1,0 +1,8 @@
+# Lendo a entrada do exercício
+A = int(input())
+B = int(input())
+
+# Seu código vai aqui
+soma = A + B
+media = soma // 2
+print(media)
