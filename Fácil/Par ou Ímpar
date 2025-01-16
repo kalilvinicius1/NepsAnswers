@@ -1,0 +1,10 @@
+# Lendo a entrada do exercício
+B = int(input())
+C = int(input())
+
+# Seu código vai aqui
+soma = B + C
+if(soma % 2 == 1):
+    print("Cino")
+else:
+    print("Bino")
