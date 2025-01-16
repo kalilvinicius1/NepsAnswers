@@ -1,0 +1,6 @@
+# Lendo a entrada do exercício
+L = int(input())
+
+# Seu código vai aqui
+areaQ = L * L
+print(areaQ)
