@@ -1,0 +1,10 @@
+# Lendo a entrada do exercício
+X = int(input())
+
+# Seu código vai aqui
+if(X > 0):
+    print("positivo")
+elif(X < 0):
+    print("negativo")
+elif(X == 0):
+    print("nulo")
