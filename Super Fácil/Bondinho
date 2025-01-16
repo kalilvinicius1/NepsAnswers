@@ -1,0 +1,11 @@
+# Lendo a entrada do exercício
+A = int(input())
+M = int(input())
+
+# Seu código vai aqui
+soma = A + M
+
+if(soma > 50):
+    print("N")
+else:
+    print("S")
